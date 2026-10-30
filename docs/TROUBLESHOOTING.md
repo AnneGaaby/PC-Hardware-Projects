@@ -15,7 +15,7 @@ Ce document rassemble un cas réel de diagnostic rencontré sur le PC principal 
 
 ## Symptômes observés
 
-Pendant des sessions de jeu, en particulier sur l'ancien MMORPG Talisman Online, des micro-saccades et des chutes brutales de fluidité ont été signalées. Certains épisodes étaient accompagnés de chutes de FPS jusqu'à 0, de blocages temporaires des périphériques et d'écrans noirs.
+Pendant des sessions de jeu, notamment sur Fortnite, des micro-saccades et des chutes brutales de fluidité ont été signalées. Certains épisodes étaient accompagnés de chutes de FPS jusqu'à 0, de blocages temporaires des périphériques et d'écrans noirs.
 
 Ces symptômes peuvent avoir plusieurs origines. Ils ne suffisent pas, à eux seuls, à identifier une pièce défectueuse.
 
