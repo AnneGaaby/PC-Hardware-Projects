@@ -43,7 +43,7 @@ Le dépôt documente les composants réellement utilisés et un cas de diagnosti
 
 ## Cas pratique : micro-saccades et blocages en jeu
 
-Un problème de micro-saccades a été observé pendant certaines sessions de jeu, particulièrement sur l'ancien MMORPG Talisman Online. Les symptômes rapportés comprenaient des chutes brutales de FPS, des blocages temporaires des périphériques et des écrans noirs.
+Un problème de micro-saccades a été observé pendant certaines sessions de jeu, notamment sur Fortnite. Les symptômes rapportés comprenaient des chutes brutales de FPS, des blocages temporaires des périphériques et des écrans noirs.
 
 Plusieurs essais ont été effectués : réinstallation et retour à d'anciens pilotes graphiques, mise à jour du BIOS, désactivation de la partie graphique intégrée, comparaison de DirectX 11 et DirectX 12 lorsque possible, modification des paramètres EXPO et contrôle de l'état de santé du SSD.
 
